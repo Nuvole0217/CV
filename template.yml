@@ -1,0 +1,244 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/jskherman/imprecv/main/cv.typ.schema.json
+
+personal:
+  name: Yanzhi Li
+  email: nuvole@umich.edu
+  phone: (+1) 734 678 3357
+  url: 
+  location:
+    city: Ann Arbor
+    region: Michigan
+    country: United States of America
+  titles:
+    - Undergraduate Student
+  profiles:
+    # - network: LinkedIn
+    #   username: John Doe
+    #   url: https://linkedin.com/in/johndoe
+    - network: GitHub
+      username: HilariousJon
+      url: https://github.com/HilariousJon
+
+education:
+  - institution: University of Michigan - Ann Arbor (Dual Degree)
+    url: 
+    area: Mathematics
+    studyType: Bachelor of Science
+    startDate: 2025-08-25
+    endDate: "present"
+    location: City of Ann Arbor, USA
+    honors:
+      # - 
+    courses:
+      # - 
+    highlights:
+      # - 
+  - institution: Shanghai Jiao Tong University
+    url: 
+    area: Electrical and Computer Engineering
+    studyType: Bachelor of Science in Engineering
+    startDate: 2023-08-25
+    endDate: 2027-08-10
+    location: City of Shanghai, China
+    honors:
+      - 3.71 / 4.0 GPA
+      - Top 15%
+    courses:
+      - Intro to Methods and Tools for Big Data
+      - Algorithms & Data Structures
+      - Linear Algebra
+      - Differential Equation
+    highlights:
+      # - "*Thesis*: A convolutional neural network for predicting Greenland glacier melt and glacial water flow"
+      # - "*Activities*: Debating, Chess, Cricket"
+
+work:
+  - organization: Shanghai Jiao Tong University Global College
+    url: 
+    location: Onsite / Shanghai, China
+    positions:
+      - position: Teaching Assistant for MATH2140J 24SU (Linear Algebra)
+        startDate: 2024-05-01
+        endDate: 2024-08-01
+        highlights:
+          - "Designed “Problem Gauges” sessions and provided vivid examples of Linear Algebra concepts."
+          - "Provided comprehensive feedback for students’ assignments, projects, and exams."
+          - "Clarified complex course concepts by hosting discussion sessions and recitation classes, opening office hours."
+          - "Instructed students on mathematical proof, mathematical concepts understanding, and expectation of course general goal."
+      - position: Teaching Assistant for ENGR1510J 25FA (Accel. Intro to Comp & Prog)
+        startDate: 2024-09-01
+        endDate: 2024-12-01
+        highlights:
+          - "Explain algorithms and knowledge for C, Cpp, and Matlab programming to students in lab and recitation sessions."
+          - "Suggest helpful debugging skills like gdb usage and programming structures during office hours."
+          - "Maintain, test, and deploy course Joint Online Judge3 and communicate with students for any feedback in a clear, timely manner."
+          - "Manage JOJ3-config-generator (Joint Online Judge3 configuration generator), detect and fix any potential bugs."
+  # - organization: National Aeronautics and Space Administration - Jet Propulsion Laboratory
+  #   url: https://example.com
+  #   location: Pasadena, California
+  #   positions:
+  #     - position: Senior Developer
+  #       startDate: 2016-02-19
+  #       endDate: 2019-05-31
+  #       highlights:
+  #         - This being the theory I hold, why need I be afraid of not being able to reconcile it with the case of my ancestors?
+  #         - Spearheaded the development of a mission-critical software module, resulting in a 30% improvement in data processing efficiency for the Mars Rover project.
+  #         - Led a cross-functional team in implementing agile methodologies, reducing project timelines by 20% and ensuring timely delivery of software updates for multiple space exploration missions.
+
+# affiliations:
+#   - organization: White Hat Hackers Association
+#     position: Vice President for Internal Affairs
+#     location: Cambridge, United Kingdom
+#     url: https://example.com
+#     startDate: 2020-05-30
+#     endDate: 2021-05-30
+#     highlights:
+#       - But I must explain to you how all this mistaken idea of reprobating pleasure and extolling pain arose.
+#       - But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+#       - Can you then suppose that those heroic men performed their famous deeds without any motive at all?
+#   - organization: London Bridge Toastmasters Club
+#     position: Member
+#     location: City of London, United Kingdom
+#     url:
+#     startDate: 2022-06-15
+#     endDate: 2023-06-30
+#     highlights:
+#       - Won Champion in the Division A District X Speech Evaluation Contest of Toastmasters International
+#       - Promising Toastmaster of the Year (PY 2022-2023)
+#       - Tell me, pray, what explanation do you put upon their actions?
+
+# awards:
+#   - title: Champion in the Division A District X Speech Evaluation Contest
+#     date: 2023-05-09
+#     issuer: Toastmasters International
+#     url:
+#     location: City of London, United Kingdom
+#     highlights:
+  # - title: "Finalist in the 2020 SCG Bangkok Business Challenge Global Competition"
+  #   date: 2020-07-12
+  #   issuer: Sasin School of Management
+  #   url:
+  #   location: Bangkok, Thailand
+  #   highlights:
+  #     - "Made it to the Top 5 (selected from over 100 teams) in the world for the semi-finals of the SCG Bangkok Business Challenge #sym.at Sasin 2020 Global Competition held at Bangkok, Thailand from July 7-12, 2020."
+  #     - "Served as the speaker and presented in the 60-second pitch round of the Opening Reception of the SCG Bangkok Business Challenge #sym.at Sasin 2022 for Team London Bridge."
+
+# certificates:
+#   - name: "Learning How to Learn: Powerful mental tools to help you master tough subjects"
+#     date: 2021-09-01
+#     issuer: Coursera
+#     url: https://example.com
+#     id: "1MPR3CVR3SUM3"
+
+# publications:
+#   - name: A convolutional neural network for predicting Greenland glacier melt and glacial water flow
+#     publisher: Theoretical and Computational Fluid Dynamics
+#     releaseDate: 2020-09-30
+#     url: https://example.com
+
+projects:
+  - name: "Drill Into Sound"
+    url: https://github.com/HilariousJon/ECE4721J/tree/master/project
+    affiliation: Shanghai Jiao Tong University Global College
+    startDate: 2025-07-01
+    endDate: 2025-07-30
+    # highlights:
+    #   - Developed an AI-powered résumé editor app to create tailored résumés from users' CVs based on specific job descriptions.
+    #   - Acquired more than 100,000 user sign ups in 3 months and more than 10,000 active monthly users.
+    #   - Generated profit of upwards \$20,000 yearly with a team of only four developers and three business operatives
+    highlights:
+      - Engineered the backend of a musical platform using Python and Apache Spark to support the querry, recommendation and year predication functions based on the MillionSong Dataset.
+      - Led a team of 4 for the whole development process and contribute 80% percent of the code work.
+      - Conceptualized and architected the core functionalities of the platform, including the recommendation engine and data operation workflows, etc.
+      - Actively performed agile development through out the development process and discussed feasible solutions with teammates.
+      - 'Check the project #link("https://github.com/HilariousJon/ECE4721J/blob/master/project/presentation/ece4721_slides.pdf")[slides] and #link("https://github.com/HilariousJon/ECE4721J/blob/master/project/presentation/ece4721_poster.pdf")[poster]!'
+  - name: "JOJ3-forge (JOJ3-config-generator)"
+    url: https://github.com/joint-online-judge/JOJ3-config-generator
+    affiliation: Shanghai Jiao Tong University Global College
+    startDate: 2024-09-01
+    endDate: "present"
+    highlights:
+      - 'Developed a robust configuration file generator to streamline the creation of #link("https://github.com/joint-online-judge/JOJ3")[JOJ3] setup files, converting simple #toml file that is easy for human to edit into a complex and comprehensive #json file for JOJ3 to read.'
+      - Co-developer and maintainer for the project, giving suggestions on better way to design the structures.
+      - Authored a comprehensive suite of testcases to ensure the reliability of the online judge process.
+  - name: "Mouse Catastrophe"
+    url: https://github.com/HilariousJon/Mouse-Catastrophe
+    affiliation: Shanghai Jiao Tong University Global College
+    startDate: 2024-05-01
+    endDate: 2024-08-01
+    highlights:
+      - 'Developed an online #link("https://focs.ji.sjtu.edu.cn/silverfocs/demo/2024/p2team11")[game] using functional programming language Elm, featuring map exploration and gaming technics to overcome the bosses.'
+      - "Leader of a group of 4 and designed the game features, game map layouts, code structures and development roadmap."
+      - 'Check the game #link("https://github.com/HilariousJon/Mouse-Catastrophe/blob/main/doc/poster.pdf")[poster]!'
+  - name: "MICP for MT-CETSP"
+    url: https://github.com/Nuvole0217/MICP_for_MT-TSP
+    affiliation: Shanghai Jiao Tong University Global College
+    startDate: 2025-05-01
+    endDate: "present"
+    highlights:
+      - 'Reproduced and extended the algorithms from the paper #link("https://rap-lab.github.io/documents/publications/2024_IROS_MTTSP_MICP_Allen_cam.pdf")[A Mixed-Integer Conic Program for the Moving-Target Traveling Salesman Problem based on a Graph of Convex Sets].'
+      - 'Adapted the original Travelling Salesman Problem (TSP) into a "Close Enough Traverlling Salesman Problem" (CETSP), validating the corresponding algorithms through code experiments.'
+skills:
+  - category: Soft Skills
+    skills:
+      - Agile Development 
+      - Public Speaking
+      - Communication
+      - Critical Thinking
+      - Leadership
+  - category: Programming
+    skills:
+      - Python
+      - LaTeX (Beamer, tikz)
+      - SQL
+      - MATLAB/Octave
+      - C, C++
+      - Java
+      - Shell Scripting
+      - Elm
+      - Typst
+  - category: Tools
+    skills:
+      - Git
+      - Json
+      - Toml
+      - Yaml
+      - Docker
+      - Neovim
+      - Visual Studio Code
+      - Canva
+  - category: BI & Data Analytics
+    skills:
+      - Apache Spark
+      - Apache Hadoop
+      - Apache Drill
+      - Microsoft Excel
+      - Microsoft Power BI
+      - Jupyter Notebook
+      - Numpy
+      - Pandas
+
+languages:
+  - language: Chinese
+    fluency: Native speaker
+  - language: English
+    fluency: Basic proficiency
+  - language: French
+    fluency: Beginner
+  # - language: German
+  #   fluency: Native speaker
+  # - language: Japanese
+  #   fluency: Basic proficiency
+
+interests:
+  - Cello
+  - Classical and Original Soundtrack Music
+
+references:
+  # You can comment out the entries below if you don't have any references
+  # The same goes for the publications
+
+  # - name: Dr. Jane Austin
+  #   reference: John was a great student. He was always eager to learn new things and was very passionate about his studies. As his mentor, I am proud to say that he was also a great leader and was able to lead his team to victory in the 2020 SCG Bangkok Business Challenge Global Competition.
+  #   url: https://janeaustin.com
+
